@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Khady 👋
 
-<!--
-**madoondiaye/madoondiaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I’m Khady, a student trying to figure out this tech world step by step.
+I’m learning Python, HTML and CSS at my own pace.
 
-Here are some ideas to get you started:
+## What I’m doing right now
+- Learning how to code without panicking 😭  
+- Trying to build small websites  
+- Working on turning my journaling idea into something real  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My vibe
+I like things that are simple, creative, and organized.  
+Notebooks, journaling, planning my life… that’s my thing.
+
+## Goals
+Just becoming better than I was yesterday, especially in tech and business.
